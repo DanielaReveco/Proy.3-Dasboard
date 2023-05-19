@@ -6,7 +6,7 @@ Esta aplicación se creó con Node.js y utiliza Chart.js, Axios y nodemon como d
 
 # Para comenzar
 
-1.  Instalar Node.js en tu maquina loacl.
+1.  Instalar Node.js en tu maquina local.
     
 2.  Clona el siguiente comando utilizando el siguiente comando:
     
