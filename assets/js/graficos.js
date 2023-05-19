@@ -19,7 +19,7 @@ async function dummyChart() {
       datasets: [
         {
           label: "Nota Promedio",
-          backgroundColor: "blue",
+          backgroundColor: "#A569BD",
           borderColor: "rgb(255, 99, 132)",
           data: peliculaPopularityData,
         },
@@ -51,7 +51,7 @@ async function dummyChart() {
       datasets: [
         {
           label: "Cantidad de peliculas por idioma",
-          backgroundColor:["red", "blue", "orange","grey"],
+          backgroundColor:["#76D7C4", "blue", "#F4D03F","grey"],
        
           data: peliculaTotal,
         },
